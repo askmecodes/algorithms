@@ -103,10 +103,10 @@
 - Maximum profit by buying and selling a share at most twice
 - How to print maximum number of A’s using given four keys
 - Find the minimum cost to reach destination using a train
-- Vertex Cover Problem | Set 2 (Dynamic Programming Solution for Tree)
+- Vertex Cover Problem 
 - Count number of ways to reach a given score in a game
 - Weighted Job Scheduling
 - Longest Even Length Substring such that Sum of First and Second Half is same
 
 
-
+**Source: https://www.geeksforgeeks.org**
